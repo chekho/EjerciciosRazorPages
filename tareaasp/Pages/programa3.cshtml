@@ -1,0 +1,36 @@
+﻿@page
+@model tareaasp.Pages.programa3Model
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <p>Evalúa la expresión (ax + by)^n:</p>
+
+    <form method="post">
+        <label for="a">a:</label>
+        <input asp-for="A" type="number" id="a" name="a">
+        <br>
+        <label for="b">b:</label>
+        <input asp-for="B" type="number" id="b" name="b">
+        <br>
+        <label for="x">x:</label>
+        <input asp-for="X" type="number" id="x" name="x">
+        <br>
+        <label for="y">y:</label>
+        <input asp-for="Y" type="number" id="y" name="y">
+        <br>
+        <label for="n">n:</label>
+        <input asp-for="N" type="number" id="n" name="n">
+        <br>
+        <input type="submit" value="Calcular">
+    </form>
+
+    @if (Model.Result != null)
+    {
+        <p>Resultado: @Model.Result</p>
+        @for (int k = 0; k <= Model.N; k++)
+        {
+            <p>Cuando k=@k: @Model.IntermediateResults[k]</p>
+        }
+    }
+</div>

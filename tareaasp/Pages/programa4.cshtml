@@ -1,0 +1,13 @@
+﻿@page
+@model tareaasp.Pages.programa4Model
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <p>Aquí están tus números aleatorios y sus estadísticas:</p>
+    <p>Números: @string.Join(", ", Model.Numeros)</p>
+    <p>Suma: @Model.Suma</p>
+    <p>Promedio: @Model.Promedio</p>
+    <p>Moda: @Model.Moda</p>
+    <p>Mediana: @Model.Mediana</p>
+</div>

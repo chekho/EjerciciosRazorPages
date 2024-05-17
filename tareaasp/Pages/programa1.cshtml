@@ -1,0 +1,41 @@
+﻿@page
+@model tareaasp.Pages.programa1Model
+@{
+}
+<form method="post">
+    <div class="form-group">
+        <label for="peso">Peso (en kg):</label>
+        <input asp-for="Peso" class="form-control" id="peso">
+    </div>
+    <div class="form-group">
+        <label for="altura">Altura (en m):</label>
+        <input asp-for="Altura" class="form-control" id="altura">
+    </div>
+    <button type="submit" class="btn btn-primary">Calcular IMC</button>
+    @if (Model.IMC < 18)
+    {
+        <p>Peso Bajo</p>
+    }
+    else if (Model.IMC < 25)
+    {
+        <p>Peso Normal</p>
+    }
+    else if (Model.IMC < 27)
+    {
+        <p>Sobre peso</p>
+    }
+    else if (Model.IMC < 30)
+    {
+        <p>Obesidad grado I</p>
+    }
+    else if (Model.IMC < 40)
+    {
+        <p>Obesidad grado II</p>
+    }
+    else
+    {
+        <p>Obesidad grado III</p>
+    }
+
+</form>
+

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|c:\\users\\sergi\\onedrive\\documentos\\asp\\idgs901\\tareaasp\\tareaasp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FF3CCC4-1C15-4184-89EF-82F9534A0B8F}|tareaasp\\tareaasp.csproj|solutionrelative:tareaasp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "programa3.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa3.cshtml.cs",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa3.cshtml.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa3.cshtml.cs",
+              "RelativeToolTip": "tareaasp\\Pages\\programa3.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:24:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "programa4.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa4.cshtml",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa4.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa4.cshtml",
+              "RelativeToolTip": "tareaasp\\Pages\\programa4.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T17:07:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "programa2.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa2.cshtml.cs",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa2.cshtml.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa2.cshtml.cs",
+              "RelativeToolTip": "tareaasp\\Pages\\programa2.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:22:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "programa2.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa2.cshtml",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa2.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa2.cshtml",
+              "RelativeToolTip": "tareaasp\\Pages\\programa2.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T16:22:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "programa3.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa3.cshtml",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa3.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa3.cshtml",
+              "RelativeToolTip": "tareaasp\\Pages\\programa3.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T17:23:41.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "programa4.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa4.cshtml.cs",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa4.cshtml.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa4.cshtml.cs",
+              "RelativeToolTip": "tareaasp\\Pages\\programa4.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:07:49.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "programa1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa1.cshtml.cs",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa1.cshtml.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa1.cshtml.cs",
+              "RelativeToolTip": "tareaasp\\Pages\\programa1.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:55:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "programa1.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa1.cshtml",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\programa1.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\programa1.cshtml",
+              "RelativeToolTip": "tareaasp\\Pages\\programa1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T15:53:39.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tareaasp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\asp\\idgs901\\tareaasp\\tareaasp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tareaasp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T15:47:28.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
